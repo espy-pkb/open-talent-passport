@@ -17,6 +17,7 @@ Open Talent Passport (OTP) proposes different interaction levels with the follow
 - [OpenLineage](https://openlineage.io/)
 - [GraphQL](https://graphql.org/)
 - [FalconLLM](https://falconllm.tii.ae/)
+- ...
 
 ## Ecosystems and data spaces
 
@@ -29,6 +30,7 @@ Open Talent Passport (OTP) is related with the following ecosystems and data spa
 - [International Data Spaces](https://internationaldataspaces.org/)
 - [OpenDEI](https://www.opendei.eu/)
 - [OpenAIRE](https://www.openaire.eu/)
+- ...
 
 ## Data sources:
 
