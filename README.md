@@ -1,4 +1,6 @@
+
 #ESP'Y Project:
+
 # OpenTalentPassport
 
 ## Open source technologies
@@ -16,7 +18,7 @@ Open Talent Passport (OTP) proposes different interaction levels with the follow
 - [GraphQL](https://graphql.org/)
 - [FalconLLM](https://falconllm.tii.ae/)
 
-## Relevant ecosystems and data spaces
+## Ecosystems and data spaces
 
 Open Talent Passport (OTP) is related with the following ecosystems and data spaces:
 
@@ -28,7 +30,7 @@ Open Talent Passport (OTP) is related with the following ecosystems and data spa
 - [OpenDEI](https://www.opendei.eu/)
 - [OpenAIRE](https://www.openaire.eu/)
 
-## Relevant data sources within the talent ecosystem:
+## Data sources:
 
 Open Talent Passport (OTP) focuses on the talent ecosystem, where there are some remarkable data sources:
 
